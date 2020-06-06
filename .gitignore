@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+AAPL_Yahoo.csv
+CNBC_articles.csv
+CNBC_article(AutoRecovered).csv
+LoughranMcDonald_MasterDictionary_2018.csv
+LR Not Scaled - Akhilesh.ipynb
+LR Scaled Added Data - Akhilesh Akula.ipynb
+NLP Project.xlsx
+scp.py
+Scraping Yahoo News - V1 - Akhilesh Akula.ipynb
+SeekingAlpha.py
+standfordnlp.ipynb
+Test Scraping Yahoo.ipynb
+webdv_test.py
